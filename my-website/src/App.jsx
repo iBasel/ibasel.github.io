@@ -1,13 +1,21 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+import { Router } from 'react-router-dom';
+import Routes from './Routes';
+import { createBrowserHistory } from 'history';
+
 import './App.css';
+
+const history = createBrowserHistory();
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <div>Basel Abdelaziz - Software Engineer</div>
-        <div>basel.e@me.com</div>
+        <Router history={history}>
+          <React.Fragment>
+            <Routes history={history} />
+          </React.Fragment>
+        </Router>
       </div>
     );
   }
