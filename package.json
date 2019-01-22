@@ -2,7 +2,7 @@
   "name": "my-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ibasel.github.io/ibasel.github.io",
+  "homepage": "https://ibasel.github.io/ibasel.github.io/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.7.0",
