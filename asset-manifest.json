@@ -1,9 +1,9 @@
 {
-  "main.css": "/ibasel.github.io/static/css/main.9c208516.chunk.css",
-  "main.js": "/ibasel.github.io/static/js/main.750beb71.chunk.js",
-  "main.js.map": "/ibasel.github.io/static/js/main.750beb71.chunk.js.map",
-  "static/js/1.9cb77011.chunk.js": "/ibasel.github.io/static/js/1.9cb77011.chunk.js",
-  "static/js/1.9cb77011.chunk.js.map": "/ibasel.github.io/static/js/1.9cb77011.chunk.js.map",
+  "main.css": "/ibasel.github.io/static/css/main.5c6fa643.chunk.css",
+  "main.js": "/ibasel.github.io/static/js/main.8fcc77ed.chunk.js",
+  "main.js.map": "/ibasel.github.io/static/js/main.8fcc77ed.chunk.js.map",
+  "static/js/1.0f14a056.chunk.js": "/ibasel.github.io/static/js/1.0f14a056.chunk.js",
+  "static/js/1.0f14a056.chunk.js.map": "/ibasel.github.io/static/js/1.0f14a056.chunk.js.map",
   "runtime~main.js": "/ibasel.github.io/static/js/runtime~main.caa5c465.js",
   "runtime~main.js.map": "/ibasel.github.io/static/js/runtime~main.caa5c465.js.map",
   "static/media/App.css": "/ibasel.github.io/static/media/xcode.cd8c1b43.png",
@@ -16,8 +16,8 @@
   "static/media/8.png": "/ibasel.github.io/static/media/8.ac36f1ce.png",
   "static/media/9.png": "/ibasel.github.io/static/media/9.98b4b4ac.png",
   "static/media/2.png": "/ibasel.github.io/static/media/2.48d89ed6.png",
-  "static/css/main.9c208516.chunk.css.map": "/ibasel.github.io/static/css/main.9c208516.chunk.css.map",
+  "static/css/main.5c6fa643.chunk.css.map": "/ibasel.github.io/static/css/main.5c6fa643.chunk.css.map",
   "index.html": "/ibasel.github.io/index.html",
-  "precache-manifest.36e9bebba8ff360d7f9ad097dc3aedc5.js": "/ibasel.github.io/precache-manifest.36e9bebba8ff360d7f9ad097dc3aedc5.js",
+  "precache-manifest.5651b744a4195b071e9d858888d04fd8.js": "/ibasel.github.io/precache-manifest.5651b744a4195b071e9d858888d04fd8.js",
   "service-worker.js": "/ibasel.github.io/service-worker.js"
 }
