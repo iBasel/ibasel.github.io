@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ibasel.github.io/precache-manifest.b6e1472004d0b7c1201d1a80864cca8d.js"
+  "/ibasel.github.io/precache-manifest.65c632bb4521444e7d0920b4a3a177b2.js"
 );
 
 workbox.clientsClaim();

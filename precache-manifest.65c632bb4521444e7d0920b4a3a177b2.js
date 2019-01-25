@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/ibasel.github.io/static/media/6.06a4314f.png"
   },
   {
-    "revision": "e6b7efac6acc95e77706",
+    "revision": "87b484defd6fde6519f3",
     "url": "/ibasel.github.io/static/css/main.c215abd0.chunk.css"
   },
   {
@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "/ibasel.github.io/static/media/5.5962f6fa.png"
   },
   {
-    "revision": "e6b7efac6acc95e77706",
-    "url": "/ibasel.github.io/static/js/main.e6b7efac.chunk.js"
+    "revision": "87b484defd6fde6519f3",
+    "url": "/ibasel.github.io/static/js/main.87b484de.chunk.js"
   },
   {
     "revision": "00ca0adddecc3b471aca10faf34168ec",
@@ -53,7 +53,7 @@ self.__precacheManifest = [
   },
   {
     "revision": "4340edd872e0a4ac360fb05f7e458183",
-    "url": "/ibasel.github.io/static/media/Basel-Resume-no-phone#.4340edd8.pdf"
+    "url": "/ibasel.github.io/static/media/Basel-Resume-no-phone.4340edd8.pdf"
   },
   {
     "revision": "65849bdb4e5a2a0ff58aafd69abed1f4",
@@ -72,7 +72,7 @@ self.__precacheManifest = [
     "url": "/ibasel.github.io/static/media/start-page.05f94643.jpg"
   },
   {
-    "revision": "c4e26bad7f40d87d71a56c099c5ba74e",
+    "revision": "75796178ec1086e7174b4a2a3c52d08d",
     "url": "/ibasel.github.io/index.html"
   }
 ];
