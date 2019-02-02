@@ -1,7 +1,7 @@
 {
   "main.css": "/ibasel.github.io/static/css/main.b62b26ab.chunk.css",
-  "main.js": "/ibasel.github.io/static/js/main.7ef12b4b.chunk.js",
-  "main.js.map": "/ibasel.github.io/static/js/main.7ef12b4b.chunk.js.map",
+  "main.js": "/ibasel.github.io/static/js/main.74530564.chunk.js",
+  "main.js.map": "/ibasel.github.io/static/js/main.74530564.chunk.js.map",
   "static/js/1.9a267d59.chunk.js": "/ibasel.github.io/static/js/1.9a267d59.chunk.js",
   "static/js/1.9a267d59.chunk.js.map": "/ibasel.github.io/static/js/1.9a267d59.chunk.js.map",
   "runtime~main.js": "/ibasel.github.io/static/js/runtime~main.caa5c465.js",
@@ -19,6 +19,6 @@
   "static/media/2.png": "/ibasel.github.io/static/media/2.6a9b1ebb.png",
   "static/css/main.b62b26ab.chunk.css.map": "/ibasel.github.io/static/css/main.b62b26ab.chunk.css.map",
   "index.html": "/ibasel.github.io/index.html",
-  "precache-manifest.d53f5529eb4c5f34edff4fcaa12118c6.js": "/ibasel.github.io/precache-manifest.d53f5529eb4c5f34edff4fcaa12118c6.js",
+  "precache-manifest.b745bc1ec2a093b384d2ceec33eaf82e.js": "/ibasel.github.io/precache-manifest.b745bc1ec2a093b384d2ceec33eaf82e.js",
   "service-worker.js": "/ibasel.github.io/service-worker.js"
 }
