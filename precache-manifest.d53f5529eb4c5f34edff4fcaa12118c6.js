@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/ibasel.github.io/static/media/6.06a4314f.png"
   },
   {
-    "revision": "87b484defd6fde6519f3",
-    "url": "/ibasel.github.io/static/css/main.c215abd0.chunk.css"
+    "revision": "7ef12b4ba5440c4ef86f",
+    "url": "/ibasel.github.io/static/css/main.b62b26ab.chunk.css"
   },
   {
     "revision": "9a267d594e2c51edfc82",
@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "/ibasel.github.io/static/media/5.5962f6fa.png"
   },
   {
-    "revision": "87b484defd6fde6519f3",
-    "url": "/ibasel.github.io/static/js/main.87b484de.chunk.js"
+    "revision": "7ef12b4ba5440c4ef86f",
+    "url": "/ibasel.github.io/static/js/main.7ef12b4b.chunk.js"
   },
   {
     "revision": "00ca0adddecc3b471aca10faf34168ec",
@@ -68,11 +68,11 @@ self.__precacheManifest = [
     "url": "/ibasel.github.io/static/media/xcode.cd8c1b43.png"
   },
   {
-    "revision": "05f946431719cf7a4538f35a7ddd65f7",
-    "url": "/ibasel.github.io/static/media/start-page.05f94643.jpg"
+    "revision": "09ddc102fea0f46786d61c80213603f8",
+    "url": "/ibasel.github.io/static/media/start-page.09ddc102.jpg"
   },
   {
-    "revision": "75796178ec1086e7174b4a2a3c52d08d",
+    "revision": "40228119024b36cbeb5c19270e7e355c",
     "url": "/ibasel.github.io/index.html"
   }
 ];
